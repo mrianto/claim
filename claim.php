@@ -2,7 +2,7 @@
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("blue"," ======================================\n");
-echo color("blue","|Daftar Akun + Auto Claim Voucher Food|\n");
+echo color("blue","|Daftar Akun + Auto Voucher Food|\n");
 echo color("blue","| _______|____•___||_____•____|_______|\n");
 echo color("blue","| ________|______|__|_______|_________|\n");
 echo color("blue","| __________|___|_____|___|___________|\n");
