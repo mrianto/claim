@@ -8,7 +8,7 @@ Perhatikan Langkah-Langkahnya
 3. pkg install php
 4. pkg install curl
 5. pkg install git
-7. git clone https://github.com/mrubay/claim
+7. git clone https://github.com/mrianto/claim
 Lalu masukan kode perintah dibawah ini buntuk menjalankan script.
 8. cd claim
 9. php pin.php
